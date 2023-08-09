@@ -7,7 +7,7 @@
 💬 Meet other builders working in TON and get help in the [official dev chat](https://t.me/tondev_eng) or [TON learn tg](https://t.me/ton_learn)
 
 
-# Checkpoint 0:  Install 
+# Checkpoint 0: 🎁 Install 🎒
 
 Required: 
 * [Git](https://git-scm.com/downloads)
@@ -26,7 +26,7 @@ yarn chain
 ```
 ---
 
-# Checkpoint 1: Chatbot Smart Contract
+# Checkpoint 1: 💻 Chatbot Smart Contract 🔈
 
 Here is a project on `ton/sandbox`, let's look at the smart contract, go to the folder `contracts` and file `chatbot.fc`
 
@@ -70,7 +70,7 @@ This smart contract, upon receiving a message with a TON value greater than 0.00
 
 ---
 
-# Checkpoint 2: Compile hexBoC
+# Checkpoint 2: 💿 Compile hexBoC 🔨
 
 A cell represents a data structure on TON Blockchain. Bag of Cells (BoC) is a format for serializing cells into byte arrays. For the easement of working with a smart contract, we first convert it into a hex representation BoC,and then we use it as it is convenient for us in tests, deployment, etc.
 
@@ -85,7 +85,7 @@ hexBoc can be viewed in `build` folder.
 
 ---
 
-# Checkpoint 3: Tests
+# Checkpoint 3: 🎾 Tests 😵
 
 Before deploying a contract, it’s worth running it through tests, it’s just for this that it’s to use `ton/sandbox`. Sample test is in the folder `tests`. Run it with command:
 
@@ -97,7 +97,7 @@ Make sure all test is colored green.
 
 ---
 
-# Checkpoint 4: Deploy
+# Checkpoint 4: 🚀 Deploy 🚀
 
 It's time to deploy, to do this, run the command:
 
@@ -114,7 +114,7 @@ For Example:
 
 ---
 
-# Checkpoint 5: Send Message to Your Chatbot
+# Checkpoint 5: 📮 Send Message to Your Chatbot 📮
 
 Now let's test our smart contract directly on the testnet. For your ease, I have prepared a script that will allow you to quickly send a transaction:
 
@@ -127,7 +127,7 @@ Below the QR code there is a link to the blockchain explorer with your smart con
 
 ---
 
-# Checkpoint 6: Check your Dialog
+# Checkpoint 6:  🏄 Check your Dialog 🏄
 
 Open the explorer link you saved earlier and see if the chatbot responded to you:
 
@@ -140,5 +140,8 @@ Congratulations, you have compiled, tested and deployed a smart contract in the 
 
 # ⚔️ Side Quests
 
-TBD
+
+Quick results are great, but to play longer, enjoy the ecosystem, I suggest you the following tutorials:
+- Let's analyze the [smart contract](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/pipeline/chatbot.md) of the chatbot
+- Learn how to write [tests](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/pipeline/chatbottest.md) for smart contracts that send messages
  
