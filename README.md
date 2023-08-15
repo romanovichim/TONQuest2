@@ -2,7 +2,9 @@
 
 ## 🚩 Challenge 2: Chatbot Contract
 
-🌟 Сompile, test and deploy chatbot smart contract to the test network. 
+🎫 Сompile, test and deploy chatbot smart contract to the test network. Getting Acquainted with the TON Actor Model
+
+🌟 The final deliverable will be pipeline for smart contract development.
 
 💬 Meet other builders working in TON and get help in the [official dev chat](https://t.me/tondev_eng) or [TON learn tg](https://t.me/ton_learn)
 
