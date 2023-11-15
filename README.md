@@ -151,7 +151,7 @@ Quick results are great, but to play longer, enjoy the ecosystem, I suggest you 
 
 Congratulations on successfully completing this challenge! Before we conclude, let's take a quick look at the exciting reward awaiting you from the <a target="_blank" href="https://getgems.io/collection/EQDZwCyBbgYionONWorPUX6PrmFh3PHdJtl8fDMqo3mYUfux">"TON Speedrun"</a> collection:
 
-<img style="border-radius: 10pt; margin: 25pt auto; display: block;" width="40%" src="https://ton-devrel.s3.eu-central-1.amazonaws.com/tonspeedrun/0/image.jpeg">
+<img style="border-radius: 10pt; margin: 25pt auto; display: block;" width="40%" src="https://ton-devrel.s3.eu-central-1.amazonaws.com/tonspeedrun/0/image.jpg">
 
 Ready to claim your reward? Simply scan the QR code below or click <a href="https://app.tonkeeper.com/transfer/EQCZ52LU4PsK71IVjn4Ur599R4ZdsnT9ToAEqysot628BEdo?bin=te6cckEBAQEABgAACAHMb83ygmcj&amount=50000000">here</a>:
 
