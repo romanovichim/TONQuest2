@@ -25,7 +25,8 @@
     "compile": "ts-node ./scripts/compile.ts",
     "test": "yarn jest",
     "deploy": "yarn compile && ts-node ./scripts/deploy.ts",
-    "send": "ts-node ./scripts/send.ts"
+    "send": "ts-node ./scripts/send.ts",
+    "reward": "ts-node ./scripts/reward.ts"
   },
   "dependencies": {
     "@ton-community/test-utils": "^0.2.0",

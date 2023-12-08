@@ -146,3 +146,14 @@ Quick results are great, but to play longer, enjoy the ecosystem, I suggest you 
 - Let's analyze the [smart contract](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/pipeline/chatbot.md) of the chatbot
 - Learn how to write [tests](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/pipeline/chatbottest.md) for smart contracts that send messages
  
+
+# 🏆 Reward 
+
+Congratulations on successfully completing this challenge! Before we conclude, let's take a quick look at the exciting reward awaiting you from the <a target="_blank" href="https://getgems.io/collection/EQDZwCyBbgYionONWorPUX6PrmFh3PHdJtl8fDMqo3mYUfux">"TON Speedrun"</a> collection:
+
+<img style="border-radius: 10pt; margin: 25pt auto; display: block;" width="40%" src="https://ton-devrel.s3.eu-central-1.amazonaws.com/tonspeedrun/0/image.jpg">
+
+Ready to claim your reward? Just scan the QR code, which can be generated using the script below:
+```sh
+yarn reward
+```
